@@ -15,8 +15,8 @@ The goals / steps of this project are the following:
 [image2]: ./examples/recovery1.jpg "Recovery 1"
 [image3]: ./examples/recovery2.jpg "Recovery 2"
 [image4]: ./examples/recovery3.jpg "Recovery 3"
-[image5]: ./examples/flip1.jpg "Flip 1"
-[image6]: ./examples/flip2.jpg "Flip 2"
+[image5]: ./examples/flipped1.jpg "Flip 1"
+[image6]: ./examples/flipped2.jpg "Flip 2"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
